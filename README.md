@@ -20,7 +20,7 @@ If we input positive rational numbers, we get:
 
 ![fibpos](https://github.com/satchitchatterji/GeneralizedFibonacci/blob/master/fibpos.png)
 
-The graph loops around so that it hits 1 twice. 
+Interestingly, the graph loops around so that it hits 1 twice. Here we see the first four real Fibonacci numbers formed as well. 
 
 If we input negative rational numbers, we get an interesting spiral pattern, which, unfortunately, is not representative of the <i>other</i> Fibonacci spiral.
 
