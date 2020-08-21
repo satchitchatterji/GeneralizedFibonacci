@@ -17,6 +17,7 @@ The [Binet formula](https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formu
 With:
 
 ![phi](https://wikimedia.org/api/rest_v1/media/math/render/svg/de8aaf6a6b60f0f58cc274515efd7f177bd65802)
+
 ![psi](https://wikimedia.org/api/rest_v1/media/math/render/svg/a531a6c08c01aacc84fb8ab1311ab471c6b22820)
 
 Usually, the Fibonacci numbers are regarded as a subset of the natural numbers. However, we can input non-natural numbers in this formula as well. With rational numbers, we need to take into account that we will inevitably need to take roots of negative numbers, so we extend our domain into the complex. The traditional Fibonacci numbers are still seen where the graph hits the real axis (no imaginary part).
