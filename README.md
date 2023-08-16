@@ -18,7 +18,7 @@ With:
 
 $$\varphi=\frac{1+\sqrt{5}}{2}\approx1.6180339887...$$
 
-$$\psi=\frac{1-\sqrt{5}}{2}=1-\varphi\approx -0.6180339887$$
+$$\psi=\frac{1-\sqrt{5}}{2}=1-\varphi\approx -0.6180339887...$$
 
 Usually, the Fibonacci numbers are regarded as a subset of the natural numbers. However, we can input non-natural numbers in this formula as well. With rational numbers, we need to take into account that we will inevitably need to take roots of negative numbers, so we extend our domain into the complex. The traditional Fibonacci numbers are still seen where the graph hits the real axis (no imaginary part).
 
