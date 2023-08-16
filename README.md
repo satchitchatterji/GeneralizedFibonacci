@@ -2,9 +2,9 @@
 
 The Fibonacci numbers and their properties are very well known, with the popular definition:
 
-![fib](https://wikimedia.org/api/rest_v1/media/math/render/svg/0fff1a1716fcc169546079870357f92757ade5fa)
+$$F_n=F_{n-1}+F_{n-2}$$
 
-With ![startfib](https://wikimedia.org/api/rest_v1/media/math/render/svg/3c667d91153450b3a161371582ee8227af85951f)
+With $F_0=0$ and $F_1=1$.
 
 Thus, the [first few](https://oeis.org/A000045) Fibonacci numbers are:
 
@@ -12,13 +12,13 @@ Thus, the [first few](https://oeis.org/A000045) Fibonacci numbers are:
 
 The [Binet formula](https://en.wikipedia.org/wiki/Fibonacci_number#Binet's_formula) is also known to produce Fibonacci numbers. Its definition for the <i>nth</i> Fibonacci number is:
 
-![Binet Formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/ccab7a6cd419ca36abdddee5f576e9e63220f88f)
+$$F_n=\frac{\varphi^n-\psi^n}{\varphi-\psi}=\frac{\varphi^n-\psi^n}{\sqrt{5}}$$
 
 With:
 
-![phi](https://wikimedia.org/api/rest_v1/media/math/render/svg/de8aaf6a6b60f0f58cc274515efd7f177bd65802)
+$$\varphi=\frac{1+\sqrt{5}}{2}\approx1.6180339887...$$
 
-![psi](https://wikimedia.org/api/rest_v1/media/math/render/svg/a531a6c08c01aacc84fb8ab1311ab471c6b22820)
+$$\psi=\frac{1-\sqrt{5}}{2}=1-\varphi\approx -0.6180339887$$
 
 Usually, the Fibonacci numbers are regarded as a subset of the natural numbers. However, we can input non-natural numbers in this formula as well. With rational numbers, we need to take into account that we will inevitably need to take roots of negative numbers, so we extend our domain into the complex. The traditional Fibonacci numbers are still seen where the graph hits the real axis (no imaginary part).
 
